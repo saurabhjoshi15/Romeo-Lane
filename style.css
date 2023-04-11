@@ -79,7 +79,7 @@ nav {
 /*-----------Hero----------*/
 
 .hero {
-    background-image: url('/Assets/Hero\ img.png');
+    background-image: url('Assets/Hero\ img.png');
     background-size: cover;
     background-position: center;
     height: 100vh; /* adjust height as needed */
@@ -380,7 +380,7 @@ nav {
 
 .achievements {
     padding: 80px 152px 200px;
-    background-image: url(/Assets/Achievements.png);
+    background-image: url(Assets/Achievements.png);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -482,7 +482,7 @@ nav {
 
   .book-now {
     display: flex;
-    background-image: url(/Assets/bookk.png);
+    background-image: url(Assets/bookk.png);
     flex-direction: column;
     padding: 80px 152px 200px;
     align-items: start;
